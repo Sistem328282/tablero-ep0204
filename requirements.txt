@@ -3,3 +3,6 @@ pandas
 requests
 altair
 jsonschema
+matplotlib
+seaborn
+altair
